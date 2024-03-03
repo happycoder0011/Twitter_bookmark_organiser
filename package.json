@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +24,7 @@
     "passport": "^0.7.0",
     "passport-twitter-oauth2": "^2.1.1",
     "session": "^0.1.0",
-    "twitter-api-sdk": "^1.2.1"
+    "twitter-api-sdk": "^1.2.1",
+    "twitter-api-v2": "^1.16.0"
   }
 }
